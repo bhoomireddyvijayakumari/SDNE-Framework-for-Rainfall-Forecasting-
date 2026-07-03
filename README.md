@@ -55,10 +55,3 @@ To run these notebooks, you will need:
     ```
 2.  **Navigate to a specific location:** Open any of the `.ipynb` files in [Jupyter](https://www.google.com/search?q=https://github.com/guljarhussain0560/Stacked-Deep-Neural-Ensemble-SDNE-/tree/main) to view the data preprocessing and training steps for that specific region.
 3.  **View Results:** Check the corresponding `results` folder to see performance metrics like RMSE, MAE, or accuracy scores.
-
------
-
-## 📝 Author
-
-**Guljar Hussain**
-[GitHub Profile](https://github.com/guljarhussain0560)
